@@ -1,0 +1,3 @@
+[submodule "BackbonesModule"]
+	path = BackbonesModule
+	url = https://github.com/m4m4d1/UIAI.git
